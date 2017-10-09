@@ -14,7 +14,7 @@ Go through the following steps, reloading your file (`ctrl/cmd-R`) in the browse
 1. Style the `ul` element inside the `nav` section. To target an element that is *nested inside* another element, the selector is a space-separated list e.g. `nav ul` or for the li tags themselves `nav li` (you can skip an element)
 1. Style the table elements. Adding `width: 100%` will ensure they stretch to match the body width
 1. adjust the padding where necessary (e.g. in table cells)
-1. change the default blue/purple link (`a` tag) colours using the pseudo-classes `a:link` and `a:hover`
+1. change the default blue/purple link (`a` tag) colours using the pseudo-classes `a:link` and `a:hover` as identifiers
 1. create a standard horizontal menu from the `nav` using `text-align: center;` and for `nav ul` `list-style-type: none;` to remove the bullet points, and for `nav li` use `display: inline-block;`
 1. inside the `nav`, restyle the `a` tags (`nav a`) using `display: block;` to enable background-colours and hover styles to display more effectively. You can also change the `background-color` using the `:hover` state
 1. add `text-decoration: none;` to the `nav a` style block, and a `background-color` value
