@@ -18,6 +18,7 @@ Go through the following steps, reloading your file (`ctrl/cmd-R`) in the browse
 1. create a standard horizontal menu from the `nav` using `text-align: center;` and for `nav ul` `list-style-type: none;` to remove the bullet points, and for `nav li` use `display: inline-block;`
 1. inside the `nav`, restyle the `a` tags (`nav a`) using `display: block;` to enable background-colours and hover styles to display more effectively. You can also change the `background-color` using the `:hover` state
 1. add `text-decoration: none;` to the `nav a` style block, and a `background-color` value
+1. style the `header` and `footer` tags as you please (perhaps a dark grey with light text for the footer)
 
 ## Optional experiment
 
